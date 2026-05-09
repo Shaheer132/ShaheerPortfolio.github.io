@@ -131,12 +131,3 @@ Contact: +968 95855090
 
 ---
 
-If you’d like, I can also:
-
-* 🔥 Make a **more modern, startup-style README**
-* 🎯 Tailor it for **LinkedIn profile summary**
-* 💼 Tailor it specifically for companies (e.g., automotive, robotics, defense, AI startups)**
-* 🧠 Create a technical portfolio version focused heavily on engineering depth**
-* 📄 Convert this into a professional PDF portfolio format**
-
-Tell me where you plan to use it (GitHub, job application, MS scholarship, startup pitch, etc.), and I’ll optimize it accordingly.
