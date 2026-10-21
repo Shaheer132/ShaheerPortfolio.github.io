@@ -9,7 +9,7 @@ You can copy this into a `README.md` file.
 **Mechatronics Engineering Student | Robotics & Control Systems Enthusiast**
 
 📧 [sshaheer.mts44ceme@student.nust.edu.pk](mailto:sshaheer.mts44ceme@student.nust.edu.pk)
-📱 +92-3255156028
+
 🔗 LinkedIn: [www.linkedin.com/in/shaheer-ahmed-72](http://www.linkedin.com/in/shaheer-ahmed-72)
 🎓 Final Year Undergraduate – NUST College of Electrical & Mechanical Engineering
 
