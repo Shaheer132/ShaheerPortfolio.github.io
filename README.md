@@ -12,7 +12,7 @@ You can copy this into a `README.md` file.
 📱 +92-3255156028
 🔗 LinkedIn: [www.linkedin.com/in/shaheer-ahmed-72](http://www.linkedin.com/in/shaheer-ahmed-72)
 🎓 Final Year Undergraduate – NUST College of Electrical & Mechanical Engineering
-📊 CGPA: 3.0
+
 
 ---
 
